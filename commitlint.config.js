@@ -18,6 +18,9 @@ module.exports = {
     "scope-empty": [2, "never"],
     "scope-enum": [2, "always", [
         "*",
+        "CLI",
+        "client",
+        "model",
       ]
     ],
     "subject-empty": [2, "never"],

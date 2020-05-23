@@ -17,7 +17,7 @@ Existing issues often contain information about workarounds, resolution, or prog
 
 ## Affected Package
 <!-- Can you pin-point one or more @angular/* packages as the source of the bug? -->
-<!-- ✍️edit: --> The issue is caused by package @govtext_template/....
+<!-- ✍️edit: --> The issue is caused by package @govtext_client/....
 
 ## Is this a regression?
 

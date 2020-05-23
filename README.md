@@ -1,4 +1,4 @@
-<h2 align="center">GovText Template Repo</h2>
+<h2 align="center">GovText Client</h2>
 
 <p align="center">
 <img alt="Python: v3.7" src="https://img.shields.io/badge/python-v3.7-blue">

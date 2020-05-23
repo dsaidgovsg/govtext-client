@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "govtext-template"
+name = "govtext-client"
 version = "0.1.0"
-description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+description = "CLI and SDK for GovText"
 authors = [
   "Charlton Lim <charlton@dsaid.gov.sg>"
 ]
