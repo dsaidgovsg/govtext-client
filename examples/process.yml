@@ -1,0 +1,5 @@
+task: 'summarization'
+dataset:
+    name: 'sample-wikihow'
+    filepath: '~/Documents/Work/govtext_v2/data/sample-wikihow.csv'
+download_location: '~/Documents/Work/govtext_v2/downloaded_data'
