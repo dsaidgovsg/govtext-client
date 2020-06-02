@@ -1,7 +1,3 @@
-environment = $(shell test -e .env || cp sample.env .env; echo .env)
-include $(environment)
-export $(shell sed 's/=.*//' $(environment))
-
 .DEFAULT_GOAL := help
 
 ## Don't worry! We've got you covered.
